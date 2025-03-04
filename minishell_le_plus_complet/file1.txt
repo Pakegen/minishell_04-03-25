@@ -1,0 +1,4 @@
+update_path.file missing 
+new_terminal aussi
+history aussi 
+pipe que deux manque aussi 
